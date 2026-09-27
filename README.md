@@ -1,17 +1,23 @@
-# first_app_kornachev
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# Flutter_Lab3 — Знакомство с Flutter
+Учебный проект по лабораторной работе №3. Демонстрирует базовые концепции
+кроссплатформенной разработки на Flutter: виджеты, дерево виджетов,
+управление состоянием, работу с `main()`, `runApp()`, `MaterialApp()`,
+`Scaffold`, `Container`, `Center`, `Text`, `TextStyle` и `BoxDecoration`.
+## Кирилл, ИСП-243
+# Стек и версии
+*Пользовался: Flutter 3.47.4; dart 3.13.3;*
+*Платформа: Web (Chrome);*
+*IDE: VS Code*
+# Скриншот приложения
+![prilogenie](/img/step8_Kornachev.png)
+## Запуск
+1. Клонировать репозиторий
+2. Перейти в папку проекта
+3. Выполнить `flutter pub get`
+4. Запустить командой `flutter run -d chrome`
+# Что изучили
+- Познакомились с Flutter и поняли, что это такое.
+- Разобрались, что такое виджеты и дерево виджетов.
+- Научились запускать проект в Chrome и работать с Hot Reload и Hot Restart.
+- Освоили VS Code для Flutter: CodeLens, горячие клавиши, DevTools.
+- Написали простое приложение с нуля: градиент, текст, стили.
